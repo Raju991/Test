@@ -1,4 +1,4 @@
 # Test
-Making a repository
+I made changes here.
 
-Making my first Commit.
+Not my first Commit.
